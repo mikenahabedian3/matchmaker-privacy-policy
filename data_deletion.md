@@ -1,8 +1,12 @@
-Data Deletion Instructions
+Data Deletion Instructions for Matchmaker App
 
-If you would like to request the deletion of your data, please email us at `support@matchmakerapp.com` with the subject "Data Deletion Request". Include the details of your request, and we will process it within 30 days.
+At Matchmaker, we respect your privacy and ensure your data is handled securely. If you wish to delete your account and remove all associated personal data from our platform, you may do so by following the instructions below.
 
-You can also delete your account by following these steps:
-1. Log into the app.
-2. Navigate to your profile settings.
-3. Click "Delete Account" to remove your data from our system.
+Steps to Delete Your Data:
+
+1. Login to your account: Go to the Matchmaker login page and log in with your credentials.
+2. Navigate to Account Settings: Once logged in, navigate to your account settings by clicking on your profile icon in the top right corner.
+3. Request Data Deletion: In your account settings, you will find an option to delete your account and associated data. Click on this option and confirm your decision.
+4. Confirmation: Once confirmed, your data will be permanently deleted from our servers within 24 hours. You will receive a confirmation email once the deletion process is complete.
+
+If you encounter any issues or have any questions, you can contact our support team at support@matchmakerapp.com for assistance.
